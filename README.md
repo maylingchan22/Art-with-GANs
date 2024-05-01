@@ -1,5 +1,7 @@
 # Art with GANs
- 
+
+## Note: You will have to download the notebook to fully view the report. The jupyter notebook is too large for GitHub and the ending code and images are not rendering properly in preview mode.
+
 ### Project Topic
 
 The project revolves around the application of generative adversarial networks (GANs) to mimic the artistic style of Claude Monet's paintings. GANs are a class of generative deep learning models consisting of two neural networks: a generator and a discriminator. The generator is tasked with creating images, in this case, images resembling Monet's style, while the discriminator aims to differentiate between real and generated images. Through this process, these networks compete, with the generator refining its ability to create convincing images as the discriminator becomes increasingly adept at discerning real from fake.
